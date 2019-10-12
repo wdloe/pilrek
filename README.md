@@ -10,10 +10,6 @@ Mohon diperhatikan bahwa survey ini adalah NON-FORMAL UNOFFICIAL dan tidak ada h
 
 Tujuan dari survey ini adalah sebagai pemenuhan tugas UTS untuk Matakuliah ET3107 Pemrograman Lanjut.
 
-## Akses Jupyter Notebook (Google Colab)
-
-- [Data Survey](https://colab.research.google.com/github/eueung/pilrek/blob/master/pilrek.ipynb)
-- [Data Survey Anonim](https://colab.research.google.com/github/eueung/pilrek/blob/master/pilrek-anon.ipynb)
 
 ## Hasil Sementara (08-10-2019 17:04)
 
