@@ -11,14 +11,14 @@ Mohon diperhatikan bahwa survey ini adalah NON-FORMAL UNOFFICIAL dan tidak ada h
 Tujuan dari survey ini adalah sebagai pemenuhan tugas UTS untuk Matakuliah ET3107 Pemrograman Lanjut.
 
 
-## Hasil Sementara (08-10-2019 17:04)
+## Hasil Sementara 
 
 ![](images/pilrek-anon_08-10-19_17-04.png)
 ![](images/pilrek_08-10-19_17-04.png)
-![](images/cat-anon_08-10-19_17-04.png)
-![](images/cat_08-10-19_17-04.png)
-![](images/age-anon_08-10-19_17-04.png)
-![](images/age_08-10-19_17-04.png)
+![](images/CR_anon.png)
+![](images/CR_email.png)
+![](images/TS_anon.png)
+![](images/TS_email.png)
 
 ## Lisensi
 
