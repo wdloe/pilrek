@@ -15,10 +15,10 @@ Tujuan dari survey ini adalah sebagai pemenuhan tugas UTS untuk Matakuliah ET310
 
 ![](images/pilrek-anon_08-10-19_17-04.png)
 ![](images/pilrek_08-10-19_17-04.png)
-![](images/CR_anon.png)
-![](images/CR_email.png)
-![](images/TS_anon.png)
-![](images/TS_email.png)
+![](images/CR_anon.PNG)
+![](images/CR_email.PNG)
+![](images/TS_anon.PNG)
+![](images/TS_email.PNG)
 
 ## Lisensi
 
