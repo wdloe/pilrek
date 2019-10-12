@@ -1,4 +1,5 @@
-# Survey UNOFFICIAL Pemilihan Rektor ITB 2020
+## Tugas Ujian Tengah Semester ET3107 Pemrograman Lanjut
+#### Tugas ini dibuat oleh William Damario Lukito (18117018) dan Farras Eldy Rashad (18117007)
 
 Repo ini berisi beberapa seed jupyter notebook dan raw data survey berikut:
 
@@ -7,13 +8,7 @@ Repo ini berisi beberapa seed jupyter notebook dan raw data survey berikut:
 
 Mohon diperhatikan bahwa survey ini adalah NON-FORMAL UNOFFICIAL dan tidak ada hubungannya dengan proses pemilihan CaRek oleh MWA ITB. 
 
-Beberapa grafik visualisasi dan data setelah processing dapat dilihat di https://eueung.github.io/pilrek/
-
-Tujuan dari survey pengumpulan data ini antara lain adalah:
-- untuk digunakan dalam pembelajaran data science (e.g. ET-3107 Advanced Programming)
-- apabila partisipasi dan coverage survey cukup luas, data masukan audiens juga akan disosialisasikan kepada civitas dengan harapan dapat sampai kepada para CaRek sehingga dapat konstruktif untuk kebaikan dan kemajuan bersama.
-
-Raw data akan diperbaharui secara berkala, sesuai dengan data yg terekam oleh form survey.
+Tujuan dari survey ini adalah sebagai pemenuhan tugas UTS untuk Matakuliah ET3107 Pemrograman Lanjut.
 
 ## Akses Jupyter Notebook (Google Colab)
 
@@ -28,13 +23,6 @@ Raw data akan diperbaharui secara berkala, sesuai dengan data yg terekam oleh fo
 ![](images/cat_08-10-19_17-04.png)
 ![](images/age-anon_08-10-19_17-04.png)
 ![](images/age_08-10-19_17-04.png)
-
-
-## Data Post-Processing & Web Render
-
-Visualisasi lain dan hasil data post-processing dapat dilihat di [GitHub Pages](https://eueung.github.io/pilrek/).
-
-![](images/ss-01.png)
 
 ## Lisensi
 
